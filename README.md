@@ -14,10 +14,7 @@ The application integrated the use of
 - WebGIS
 - PWA
 
-## Screenshots:
+## Preview & Screenshots:
 
-- Homepage
+![Screenshot of the homepage of the Map My Moments](https://github.com/Alanrocks/MapMyMoments-webGIS-application/blob/main/preview/prview.png)
 
-![Screenshot of the homepage of the Map My Moments](https://github.com/Alanrocks/MapMyMoments-webGIS-application/blob/main/preview/homepage.png)
-
-- 
