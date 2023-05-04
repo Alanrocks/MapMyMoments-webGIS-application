@@ -143,4 +143,9 @@ div.jumbotron.jumbotron-fluid{
     width:10vh;
     height:10vh;
     background-color: rgb(77, 127, 172);
+    transition:all 0.5s;
+  }
+#photobtn:hover{
+   background-color:#ee4b08;
+   transform:scale(1.1);
   }
