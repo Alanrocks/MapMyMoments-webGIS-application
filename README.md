@@ -16,5 +16,5 @@ The application integrated the use of
 
 ## Preview & Screenshots:
 
-![Screenshot of the homepage of the Map My Moments](https://github.com/Alanrocks/MapMyMoments-webGIS-application/blob/main/preview/preview.png)
+![Screenshot of the homepage of the Map My Moments](https://github.com/Alanrocks/MapMyMoments-webGIS-application/blob/main/preview.png)
 
