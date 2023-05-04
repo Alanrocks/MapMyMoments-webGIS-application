@@ -1,0 +1,146 @@
+.col-md-12{
+    font-family: 'Archivo Narrow', sans-serif;
+}
+
+.jumbotron{
+    background:url("Jumbotron.gif");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: top;
+    /* height: 50vh; */
+}
+
+div.container{
+    color:rgb(245, 236, 236);
+    /* text-align:center; */
+    font-family: 'Amatic SC', cursive;
+    
+}
+div.jumbotron.jumbotron-fluid{
+    margin-bottom:0px;
+    height:45vh;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.display-4{
+    font-size: 10vw;  
+    text-align:center;
+    /* margin:auto; */
+    /* display:flex;
+    justify-content:center; */
+    margin:0px auto;
+    color:rgb(140, 193, 240);
+}
+.lead{
+    font-size:clamp(1rem, 2rem, 10vw);
+    color:rgb(245, 248, 200);
+    display:flex;
+    text-align: center;
+    justify-content:center;
+    margin:0px auto
+}
+/* .box1{
+    color:rgb(255, 255, 255);
+    /* padding: 50px; */
+    /* vertical-align: text-top; */
+/* } */ 
+.box2{
+
+    /* font-size:10rem; */
+    /* padding: 50px 0; */
+    text-align: center;
+    font-size:clamp(2rem, 7rem, 30vw)
+}
+
+#login{
+    color:rgb(255, 255, 255);
+    width:40em;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+    border: 8px rgba(150, 145, 192,0.2);
+    border-style: groove;
+    border-radius:25px;
+    background-color: rgba(204, 184, 184, 0.3);
+    backdrop-filter: blur(6px);
+}
+#signup{
+    color:aliceblue;
+    width:40em;
+    display:flex;
+    justify-content: center;
+    padding: 20px;
+    padding-bottom: 30px;
+    border: 8px rgba(0, 0, 0, 0.2);
+    border-style: groove;
+    border-radius:25px;
+    /* background-blend-mode: darken; */
+    background-color: rgba(94, 87, 128, 0.3);
+    /* background-image:url(earth.jpg); */
+    backdrop-filter: blur(6px);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.formtitle{
+    font-size:1.8em;
+    color:rgb(255, 255, 255)
+}
+.signuptitle{
+    color:rgb(200, 191, 228)
+}
+/* .vl {
+    border: 2px dashed rgb(150, 145, 192);
+    height: auto;
+  } */
+.row{
+    color:rgb(165, 59, 59);
+    margin:0px;
+    display: flex;
+    justify-content: center;
+    /* background-color: rgb(215, 209, 246); */
+    background-image:url(astro.png);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /* height:120%; */
+    background-position:center;
+}
+#sign_in_alerts{
+    font-size:1rem
+}
+
+#M1{
+    filter: blur(2px);
+}
+#M2{
+    filter: blur(1px);
+}
+#M3{
+    position: relative;
+    font-size: 45px;
+    letter-spacing: 2px;
+    /* background: linear-gradient(90deg, #90EE90, #fff, #000); */
+    background-repeat: no-repeat;
+    background-size: 80%;
+    animation: animate 5s infinite;
+    /* -webkit-background-clip: text; */
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
+
+
+#photobtn{
+    border-radius:50%;
+    position:absolute;
+    right:2lh;
+    bottom:5vh;
+    width:10vh;
+    height:10vh;
+    background-color: rgb(77, 127, 172);
+  }
